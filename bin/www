@@ -7,7 +7,7 @@ import http from 'http';
 import debug from 'debug';
 import app from '../app';
 
-debug('ts-express:server');
+debug('es6-express:server');
 
 /**
 * Get port from environment and store in Express.
